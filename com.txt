@@ -1,0 +1,27 @@
+ls>outfile
+
+grep '[0-9]' outfile>list
+
+ cat>test
+Hello there
+
+ chmod u+x,go-r test
+
+ alias rm='rm-i'
+
+ who|wc -l
+
+cat>outfile
+
+ls -a|grep "^\.">hidden
+
+chmod 700 test
+
+ cut -c 1,10 test
+
+ sort test|uniq -c
+
+ wc -w test
+ ln -s test link
+
+ln outfile link
